@@ -12,7 +12,7 @@
       "name": "깅씨네 귀농일지2",
       "description": "gingsfarm Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "rascal7.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -183,6 +183,17 @@
             "size": 8072985,
             "url": "https://raw.githubusercontent.com/Rascal7/gingsfarm-distro/main/servers/gingsfarm-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.21.jar",
             "MD5": "fdaadc764b7bcb313050098ec3024ad6"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.3.zip",
+          "name": "ComplementaryUnbound_r5.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 446661,
+            "url": "https://raw.githubusercontent.com/Rascal7/gingsfarm-distro/main/servers/gingsfarm-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.3.zip",
+            "MD5": "50893f00c06b63dfd140dbcac22cc69f",
+            "path": "shaderpacks/ComplementaryUnbound_r5.3.zip"
           }
         }
       ]
