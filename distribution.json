@@ -12,7 +12,7 @@
       "name": "마스터쉐프 서바이벌",
       "description": "마스터쉐프 서바이벌 Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://raw.githubusercontent.com/Rascal7/gingsfarm-distro/main/logo-color.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "rascal7.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
