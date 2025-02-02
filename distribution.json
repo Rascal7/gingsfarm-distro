@@ -12,7 +12,7 @@
       "name": "마스터쉐프 서바이벌",
       "description": "마스터쉐프 서바이벌 Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://raw.githubusercontent.com/Rascal7/gingsfarm-distro/main/logo-color.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "rascal7.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -353,6 +353,26 @@
             "size": 4155,
             "url": "https://raw.githubusercontent.com/Rascal7/gingsfarm-distro/main/servers/gingsfarm-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/Rascal7/gingsfarm-distro/main/servers/gingsfarm-1.20.1/files/servers.dat",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 82,
+            "url": "https://raw.githubusercontent.com/Rascal7/gingsfarm-distro/main/servers/gingsfarm-1.20.1/files/servers.dat_old",
+            "path": "servers.dat_old"
           }
         },
         {
